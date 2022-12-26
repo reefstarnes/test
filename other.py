@@ -1,5 +1,8 @@
 def myFunc():
-    print('hi')
+    print('hello')
 
-for i in range(10):
+while(1):
     myFunc()
+    myFunc()
+    myFunc()
+    break
